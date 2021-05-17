@@ -41,7 +41,7 @@ n == height.length
 2 <= n <= 3 * 10^4
 ```
 
-Start 🚀
+## Start 🚀
 
 For this challenge I created a console project with netcore 3.1
 
@@ -49,4 +49,4 @@ Just run the console app and use the program
 
 ![program](https://github.com/linkinrodx/Water-Container/blob/master/Images/program.png)
 
-Created by Rodrigo Saraya - 2021
+*Created by Rodrigo Saraya - 2021*
